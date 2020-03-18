@@ -13,7 +13,7 @@
 }
 
 .topBarNavigation a:hover {
-    text-decoration: underline;
+    text-decoration: ActiveBorder;
 }
 
 div {
