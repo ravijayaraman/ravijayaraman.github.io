@@ -1,24 +1,5 @@
-.topBarNavigation {
-    overflow: hidden;
-}
-
-.topBarNavigation a {
-    float: left;
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topBarNavigation a:hover {
-    font-weight: bold;
-}
-
 .landingPage {
     padding: 20px 22px;
-    background: beige;
     text-decoration: none;
     position: absolute;
     height: 200px;
@@ -30,10 +11,14 @@
     right: 0;
 }
 
-body {
-    font-family: 'Sen', sans-serif;
+label {
+    font-weight: bolder;
+    background: beige;
+    padding: 30px;
+    border-radius: 25px;
 }
 
-div p {
-    font-style: italic;
+body {
+    font-family: 'Sen', sans-serif;
+    background-color: dodgerblue;
 }
