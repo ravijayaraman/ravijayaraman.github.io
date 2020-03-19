@@ -16,6 +16,16 @@
     font-weight: bold;
 }
 
+.landingPage {
+    padding: 20px 22px;
+    background: beige;
+    text-decoration: none;
+    position: absolute;
+    height: 10%;
+    width: 20%;
+    margin: auto;
+}
+
 body {
     font-family: 'Sen', sans-serif;
 }
