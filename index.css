@@ -1,4 +1,4 @@
-.landingPage {
+div.landingPage {
     padding: 20px 22px;
     text-decoration: none;
     position: absolute;
@@ -11,10 +11,11 @@
     transition: 2s;
 }
 
-p {
+p.landingPage {
     font-weight: bolder;
     color: beige;
     font-size: 40px;
+    margin-top: 20%;
 }
 
 body {
